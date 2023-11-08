@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jvives7
-- 👀 I’m interested in DSP, Control Systems and Electronics
-- 🌱 I’m currently learning Electrical Engineering 
-- 💞️ I’m looking to collaborate on spatial audio
+- 👀 I’m interested in system design and electronics
+- 🌱 I’m currently learning machine learning and full-stack development
 - 📫 How to reach me ...
 
 <!---
